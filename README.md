@@ -1,4 +1,4 @@
-Php rest api sample:
+Php rest api :
 
 - Authorization with HTTP_BEARER_AUTH
 - Pagination
