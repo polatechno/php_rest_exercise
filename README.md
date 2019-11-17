@@ -9,3 +9,6 @@ Php rest api sample:
 - Sorting
 - Migration
 - Composer
+
+
+***Installation is on wiki page
