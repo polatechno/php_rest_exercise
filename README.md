@@ -1,6 +1,6 @@
 Php rest api sample:
 
-- Authorization
+- Authorization with HTTP_BEARER_AUTH
 - Pagination
 - Caching and error handling
 - Validation
