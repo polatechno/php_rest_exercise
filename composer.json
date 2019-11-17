@@ -1,0 +1,6 @@
+{
+    "require": {
+        "yiisoft/yii2": "*",
+        "guzzlehttp/guzzle": "^6.4"
+    }
+}
